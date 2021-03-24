@@ -1,4 +1,4 @@
-# 1-Serlokas
+# Serlokas
 
 _First student-practise project_
 
